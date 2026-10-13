@@ -1,7 +1,7 @@
 # İndirilenler Düzenleyici
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![Lisans](https://img.shields.io/badge/lisans-MIT-green)
+![Lisans](https://img.shields.io/badge/lisans-GPLv3-blue)
 
 İndirilenler klasörünü dosya türlerine göre otomatik ayıran, arayüzlü (GUI) bir araç.
 
@@ -140,7 +140,7 @@ veri/ayarlar.json               pencere tercihleri
 veri/gecmis.jsonl               geri alma kayıtları
 veri/log_*.txt                  kaydedilen loglar
 test_sinama.py                  kendi kendini sınama (53 kontrol)
-LICENSE                         MIT lisansı
+LICENSE                         GNU GPL v3 lisans metni
 ```
 
 ### İkonu değiştirmek
@@ -172,8 +172,14 @@ klasörünüze dokunmaz.
 
 ## Lisans
 
-[MIT](LICENSE) — kopyala, değiştir, dağıt; ticari kullanım dahil. Tek şart:
-telif bildirimini dosyada bırakmak.
+**GNU GPL v3** — tam metin [LICENSE](LICENSE) dosyasında.
+
+Kısaca: istediğin gibi kullan, değiştir, dağıt, hatta **ticari olarak sat**.
+Tek şart, türevini dağıttığında **kaynak kodunu da açman** — yani senin kodun
+görünür kalsın. Orijinal telif bildirimi (`by3727265-debug`) dosyada durmalı.
+
+MIT'ten farkı şu: MIT'te biri kodu alıp adını değiştirip kapalı bir ürün
+yapabilirdi. GPL'de bunu yapabilir ama kaynak kodunu paylaşmak zorundadır.
 
 ## Güvenlik notu
 

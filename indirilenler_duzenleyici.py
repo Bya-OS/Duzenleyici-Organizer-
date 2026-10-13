@@ -1,5 +1,19 @@
 # -*- coding: utf-8 -*-
-"""
+# Copyright (C) 2026  by3727265-debug
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
+r"""
 İndirilenler Klasörü Düzenleyici
 ================================
 İndirilenler klasörünü dosya türlerine göre alt klasörlere ayırır.
@@ -8,7 +22,7 @@
   * Taşımadan önce onay penceresi
   * İlerleme çubuğu + canlı log
   * Son taşıma işlemini tek tıkla geri al
-  * Kurallar `kurallar.json` ile değiştirilebilir (exe -> Programlar vb.)
+  * Kurallar `veri\kurallar.json` ile değiştirilebilir (exe -> Programlar vb.)
 
 Çalıştırmak için:  baslat.bat   (konsol penceresi açmadan)
 """
