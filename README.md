@@ -1,7 +1,7 @@
 # İndirilenler Düzenleyici
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![Lisans](https://img.shields.io/badge/lisans-GPLv3-blue)
+![Lisans](https://img.shields.io/badge/lisans-noncommercial-orange)
 
 İndirilenler klasörünü dosya türlerine göre otomatik ayıran, arayüzlü (GUI) bir araç.
 
@@ -140,7 +140,7 @@ veri/ayarlar.json               pencere tercihleri
 veri/gecmis.jsonl               geri alma kayıtları
 veri/log_*.txt                  kaydedilen loglar
 test_sinama.py                  kendi kendini sınama (53 kontrol)
-LICENSE                         GNU GPL v3 lisans metni
+LICENSE                         PolyForm Noncommercial 1.0.0 metni
 ```
 
 ### İkonu değiştirmek
@@ -172,14 +172,21 @@ klasörünüze dokunmaz.
 
 ## Lisans
 
-**GNU GPL v3** — tam metin [LICENSE](LICENSE) dosyasında.
+**PolyForm Noncommercial 1.0.0** — tam metin [LICENSE](LICENSE) dosyasında.
 
-Kısaca: istediğin gibi kullan, değiştir, dağıt, hatta **ticari olarak sat**.
-Tek şart, türevini dağıttığında **kaynak kodunu da açman** — yani senin kodun
-görünür kalsın. Orijinal telif bildirimi (`by3727265-debug`) dosyada durmalı.
+Üç maddede özet:
 
-MIT'ten farkı şu: MIT'te biri kodu alıp adını değiştirip kapalı bir ürün
-yapabilirdi. GPL'de bunu yapabilir ama kaynak kodunu paylaşmak zorundadır.
+| | |
+|---|---|
+| ✅ **Serbest** | Kullanmak, değiştirmek, kopyalamak, dağıtmak |
+| ❌ **Yasak** | **Parayla satmak** (ticari amaçla kullanmak da yasak) |
+| 📌 **Şart** | `by3727265-debug` telif bildirimi dosyada kalsın |
+
+Kendi bilgisayarında kullan, arkadaşına gönder, kendi sitende paylaş, üstünde
+çalışıp dağıt — hepsi serbest. Para kazandıran bir ürün olarak satma.
+
+Kişisel kullanım, okul/üniversite, dernek ve kamu kurumları serbest.
+Bunların dışındaki ticari kullanım için önce bana danış.
 
 ## Güvenlik notu
 
